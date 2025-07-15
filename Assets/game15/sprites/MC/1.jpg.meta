@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: efabc0b8cd71c7c4d8badf3f254aaba7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895.3334
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1383e9b2125cf4c8ca3a98d3c9c90e
+      internalID: -650274713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 895.3334
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53eed96789d5834b9d97a490be049b9
+      internalID: -1014400748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_2
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 895.3334
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31c63496596a5479e8a4651cafb3f5
+      internalID: 1581167275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_3
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 895.3334
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b5cedbe0786f4fad83a645916f9e6
+      internalID: 247126070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448.33334
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52496c5814a343c48a1873f1c697bff7
+      internalID: 147344388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 448.33334
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b99e224d14a934b8572e3887c69c13
+      internalID: 346560086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 448.33334
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9581c5cc04f9a7c418682327b2e73085
+      internalID: -1008861525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_7
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 448.33334
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6a2b8ba9e1b914383ca1c0b38e3e21
+      internalID: 306942512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333435
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0593256384495594f8921f79f088cb66
+      internalID: 1088259844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1.3333435
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19697f95e83f06648aba8d31cd6b5a2c
+      internalID: -880706353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_10
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1.3333435
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef787c2399f3b46a77cc5d29b1660a
+      internalID: 1949689276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-minecraft-movie-2025-1wBjXL_11
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1.3333435
+        width: 597
+        height: 447.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5d4c3ea6decda46a0e3fc3d05728a6
+      internalID: 1060351528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      a-minecraft-movie-2025-1wBjXL_0: -650274713
+      a-minecraft-movie-2025-1wBjXL_1: -1014400748
+      a-minecraft-movie-2025-1wBjXL_10: 1949689276
+      a-minecraft-movie-2025-1wBjXL_11: 1060351528
+      a-minecraft-movie-2025-1wBjXL_2: 1581167275
+      a-minecraft-movie-2025-1wBjXL_3: 247126070
+      a-minecraft-movie-2025-1wBjXL_4: 147344388
+      a-minecraft-movie-2025-1wBjXL_5: 346560086
+      a-minecraft-movie-2025-1wBjXL_6: -1008861525
+      a-minecraft-movie-2025-1wBjXL_7: 306942512
+      a-minecraft-movie-2025-1wBjXL_8: 1088259844
+      a-minecraft-movie-2025-1wBjXL_9: -880706353
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

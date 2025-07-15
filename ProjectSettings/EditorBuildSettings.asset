@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/game15/scenes/game15.unity
+    guid: 7233a618804949c4f863d69381d62439
+  - enabled: 1
+    path: Assets/game15/scenes/gameover.unity
+    guid: b09c6e85fea6bb24c8c97c777b63b1b7
+  - enabled: 1
+    path: Assets/game15/scenes/levels/1.unity
+    guid: 0b9c941e9a9b2d84e8a769fccbdd79df
+  - enabled: 1
+    path: Assets/game15/scenes/levels/2.unity
+    guid: 410910e61495e974fbba709ad8c39dea
+  - enabled: 1
+    path: Assets/game15/scenes/levels/3.unity
+    guid: 928727efabe6240409766ae14f803717
+  - enabled: 1
+    path: Assets/game15/scenes/levels/4.unity
+    guid: 758f64ee0a09e674da26df7cf3a59a88
+  - enabled: 1
+    path: Assets/game15/scenes/levels/5.unity
+    guid: ffad06dc521511e45bea042cf0d465b3
+  - enabled: 1
+    path: Assets/game15/scenes/levels/6.unity
+    guid: d1482b2c904b53a46aadb1add2f0e13f
+  - enabled: 1
+    path: Assets/game15/scenes/levels/7.unity
+    guid: 30464ceea7036ac45b4964437885edb6
+  - enabled: 1
+    path: Assets/game15/scenes/levels/8.unity
+    guid: 8511d2c9bedd3d44d8a7b7b54653dc5d
+  - enabled: 1
+    path: Assets/game15/scenes/levels/9.unity
+    guid: 0bcc873536c50ac47b6c9c09f057adba
+  m_configObjects: {}
