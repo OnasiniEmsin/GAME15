@@ -26,7 +26,7 @@ public class PuzzleManager : MonoBehaviour
     int sx,sy;
     void Start()
     {
-        if(PlayerPrefs.GetInt("ekran")==1){
+        if(PlayerPrefs.GetInt("ekran")==0){
             sx=Screen.width;sy=Screen.height;
         }else{
             sx=1400;sy=1050;
